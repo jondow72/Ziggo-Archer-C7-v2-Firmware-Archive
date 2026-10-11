@@ -37,7 +37,7 @@ If your Ziggo Access Point is bricked (e.g., power light blinking or boot loop) 
 
 ### Prerequisites
 1. An ethernet cable connecting your computer directly to one of the **LAN ports** of the router.
-2. A TFTP Server utility installed on your PC (e.g., **Tftpd32/Tftpd64** for Windows, or `tftpd` for Linux).
+2. A TFTP Server utility installed on your PC (e.g., [**Tftpd32/Tftpd64**](https://github.com/PJO2/tftpd64/releases/) for Windows, or `tftpd` for Linux).
 
 ### Step-by-Step Instructions
 1. **Rename the file:** Rename `Ziggo_AccessPoint_FW_2.1.4.bin` to exactly `ArcherC7v2_tp_recovery.bin`.
